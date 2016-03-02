@@ -9,7 +9,7 @@
 <body>
 
 
-<h1>HOLA BIENVENIDOS A HERUKO</h1>
-
+<h1>HOLA BIENVENIDOS A HEROKU</h1>
+<h2>por fin pudi comentar git +github + heroku</h2>
 </body>
 </html>
